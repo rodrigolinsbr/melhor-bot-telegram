@@ -1,31 +1,41 @@
 # -*- coding: utf-8 -*-
-from Chatterbot import ChatBot
-from Chatterbot.trainers import ListTrainer
-from corpus import student, introdution, lingPython, history, sport
 
-bot = ChatBot('Teste')
-bot.set_trainer(ListTrainer)
-bot.train(introdution.trainIntrodution)
-bot.train(student.trainStudent)
-bot.train(lingPython.trainStudent)
-bot.train(history.trainHistory)
-bot.train(sport.trainSport)
-cont = 0
-def StartBot(message):
+from flask import Flask
+import peewee
+from flask import Flask, jsonify, request
+from flask_cors import CORS
+import main
+
+
+app = Flask(__name__)
+CORS(app)
+
+@app.route("/")
+def index():
+    return "Oi mundo"
+
+# GET /postagens/
+@app.route('/bot')
+def postagens():
+    #return jsonify([postagem.to_dict() for postagem in Postagem.select()])
+    return "response"
+
+
+# POST /postagens/
+@app.route('/voce', methods=['POST'])
+
+def nova_postagem():
     cont = 0
-    while True:
 
-        # quest = input('Você: ')
-        response = bot.get_response(message)
-        if float(response.confidence) > 0.5:
-            return str(response)
-        else:
-            cont = cont + 1
-            if cont == 1:
-                return 'Não entendi'
+    message =request.form.get('message')
+    # titulo.headers.add('Access-Control-Allow-Origin', '*')
+    # titulo.headers.add('Access-Control-Allow-Headers', 'Content-Type,Authorization')
+    # titulo.headers.add('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE,OPTIONS')
+    message = str(message)
+    anwser = main.StartBot(message)
+    return jsonify({'status': 200, 'anwser': anwser})
 
-            elif cont == 2:
-                return 'Desculpe, não estou entendo.Você sabe?'
 
-            elif cont > 2:
-                return 'Caramba, não sei! Você pode me dizer algo sobre isso?.'
+if __name__ == '__main__':
+    app.run(debug=True)#
+    app.run(debug=True, port=6543)
