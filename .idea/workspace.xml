@@ -1,7 +1,221 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e94ffab-5082-48e8-b2cf-3604048f9e54" name="Default Changelist" comment="" />
+    <list default="true" id="4e94ffab-5082-48e8-b2cf-3604048f9e54" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/melhor-bot-telegram.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/melhor-bot-telegram.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/.codeclimate.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/.codeclimate.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/.github/lock.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/.github/lock.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/MANIFEST.in" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/MANIFEST.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/__main__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/adapters.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/adapters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/chatterbot.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/chatterbot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/comparisons.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/comparisons.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/constants.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/conversation.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/conversation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/corpus.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/corpus.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/django_chatterbot/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/django_chatterbot/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/django_chatterbot/abstract_models.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/django_chatterbot/abstract_models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/django_chatterbot/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/django_chatterbot/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/django_chatterbot/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/django_chatterbot/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/django_chatterbot/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/django_chatterbot/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/django_chatterbot/migrations/0002_statement_extra_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/django_chatterbot/migrations/0002_statement_extra_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/django_chatterbot/migrations/0003_change_occurrence_default.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/django_chatterbot/migrations/0003_change_occurrence_default.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/django_chatterbot/migrations/0004_rename_in_response_to.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/django_chatterbot/migrations/0004_rename_in_response_to.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/django_chatterbot/migrations/0005_statement_created_at.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/django_chatterbot/migrations/0005_statement_created_at.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/django_chatterbot/migrations/0006_create_conversation.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/django_chatterbot/migrations/0006_create_conversation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/django_chatterbot/migrations/0007_response_created_at.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/django_chatterbot/migrations/0007_response_created_at.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/django_chatterbot/migrations/0008_update_conversations.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/django_chatterbot/migrations/0008_update_conversations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/django_chatterbot/migrations/0009_tags.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/django_chatterbot/migrations/0009_tags.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/django_chatterbot/migrations/0010_statement_text.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/django_chatterbot/migrations/0010_statement_text.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/django_chatterbot/migrations/0011_blank_extra_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/django_chatterbot/migrations/0011_blank_extra_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/django_chatterbot/migrations/0012_statement_created_at.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/django_chatterbot/migrations/0012_statement_created_at.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/django_chatterbot/migrations/0013_change_conversations.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/django_chatterbot/migrations/0013_change_conversations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/django_chatterbot/migrations/0014_remove_statement_extra_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/django_chatterbot/migrations/0014_remove_statement_extra_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/django_chatterbot/migrations/0015_statement_persona.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/django_chatterbot/migrations/0015_statement_persona.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/django_chatterbot/migrations/0016_statement_stemmed_text.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/django_chatterbot/migrations/0016_statement_stemmed_text.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/django_chatterbot/migrations/0017_tags_unique.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/django_chatterbot/migrations/0017_tags_unique.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/django_chatterbot/migrations/0018_text_max_length.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/django_chatterbot/migrations/0018_text_max_length.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/django_chatterbot/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/django_chatterbot/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/django_chatterbot/model_admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/django_chatterbot/model_admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/django_chatterbot/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/django_chatterbot/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/django_chatterbot/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/django_chatterbot/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/sqlalchemy_app/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/sqlalchemy_app/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/sqlalchemy_app/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/ext/sqlalchemy_app/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/filters.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/filters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/languages.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/languages.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/logic/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/logic/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/logic/best_match.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/logic/best_match.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/logic/logic_adapter.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/logic/logic_adapter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/logic/mathematical_evaluation.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/logic/mathematical_evaluation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/logic/specific_response.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/logic/specific_response.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/logic/time_adapter.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/logic/time_adapter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/logic/unit_conversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/logic/unit_conversion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/parsing.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/parsing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/preprocessors.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/preprocessors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/response_selection.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/response_selection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/search.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/storage/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/storage/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/storage/django_storage.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/storage/django_storage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/storage/mongodb.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/storage/mongodb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/storage/sql_storage.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/storage/sql_storage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/storage/storage_adapter.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/storage/storage_adapter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/tagging.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/tagging.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/trainers.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/trainers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/chatterbot/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/chatterbot/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/dev-requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/dev-requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/docs/_includes/python_module_structure.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/docs/_includes/python_module_structure.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/docs/_static/bigrams.svg" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/docs/_static/bigrams.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/docs/_static/chatterbot-process-flow.svg" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/docs/_static/chatterbot-process-flow.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/docs/_static/dialog-processing-flow.svg" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/docs/_static/dialog-processing-flow.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/docs/_static/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/docs/_static/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/docs/_static/github-mark.png" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/docs/_static/github-mark.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/docs/_static/so-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/docs/_static/so-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/docs/_static/statement-relationship.svg" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/docs/_static/statement-relationship.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/docs/_static/statement-response-relationship.svg" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/docs/_static/statement-response-relationship.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/docs/_static/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/docs/_static/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/docs/_static/training-graph.svg" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/docs/_static/training-graph.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/docs/_templates/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/docs/_templates/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/docs/_templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/docs/_templates/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/docs/chatterbot.rst" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/docs/chatterbot.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/docs/commands.rst" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/docs/commands.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/docs/comparisons.rst" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/docs/comparisons.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/docs/conf.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/docs/conf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/docs/contributing.rst" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/docs/contributing.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/docs/conversations.rst" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/docs/conversations.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/docs/corpus.rst" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/docs/corpus.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/docs/development.rst" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/docs/development.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/docs/django/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/docs/django/index.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/docs/django/settings.rst" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/docs/django/settings.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/docs/django/views.rst" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/docs/django/views.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/docs/django/wsgi.rst" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/docs/django/wsgi.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/docs/encoding.rst" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/docs/encoding.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/docs/examples.rst" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/docs/examples.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/docs/faq.rst" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/docs/faq.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/docs/filters.rst" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/docs/filters.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/docs/glossary.rst" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/docs/glossary.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/docs/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/docs/index.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/docs/logic/create-a-logic-adapter.rst" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/docs/logic/create-a-logic-adapter.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/docs/logic/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/docs/logic/index.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/docs/logic/response_selection.rst" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/docs/logic/response_selection.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/docs/packaging.rst" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/docs/packaging.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/docs/preprocessors.rst" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/docs/preprocessors.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/docs/quickstart.rst" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/docs/quickstart.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/docs/releases.rst" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/docs/releases.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/docs/setup.rst" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/docs/setup.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/docs/statements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/docs/statements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/docs/storage/create-a-storage-adapter.rst" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/docs/storage/create-a-storage-adapter.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/docs/storage/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/docs/storage/index.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/docs/storage/text-search.rst" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/docs/storage/text-search.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/docs/testing.rst" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/docs/testing.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/docs/training.rst" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/docs/training.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/docs/tutorial.rst" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/docs/tutorial.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/docs/upgrading.rst" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/docs/upgrading.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/docs/utils.rst" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/docs/utils.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/examples/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/examples/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/examples/basic_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/examples/basic_example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/examples/convert_units.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/examples/convert_units.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/examples/default_response_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/examples/default_response_example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/examples/django_app/README.rst" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/examples/django_app/README.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/examples/django_app/example_app/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/examples/django_app/example_app/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/examples/django_app/example_app/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/examples/django_app/example_app/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/examples/django_app/example_app/static/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/examples/django_app/example_app/static/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/examples/django_app/example_app/static/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/examples/django_app/example_app/static/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/examples/django_app/example_app/static/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/examples/django_app/example_app/static/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/examples/django_app/example_app/static/img/chatterbot.png" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/examples/django_app/example_app/static/img/chatterbot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/examples/django_app/example_app/static/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/examples/django_app/example_app/static/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/examples/django_app/example_app/static/js/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/examples/django_app/example_app/static/js/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/examples/django_app/example_app/static/js/js.cookie.js" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/examples/django_app/example_app/static/js/js.cookie.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/examples/django_app/example_app/templates/app.html" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/examples/django_app/example_app/templates/app.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/examples/django_app/example_app/templates/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/examples/django_app/example_app/templates/nav.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/examples/django_app/example_app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/examples/django_app/example_app/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/examples/django_app/example_app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/examples/django_app/example_app/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/examples/django_app/example_app/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/examples/django_app/example_app/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/examples/django_app/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/examples/django_app/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/examples/django_app/tests/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/examples/django_app/tests/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/examples/django_app/tests/test_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/examples/django_app/tests/test_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/examples/django_app/tests/test_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/examples/django_app/tests/test_example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/examples/export_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/examples/export_example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/examples/learning_feedback_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/examples/learning_feedback_example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/examples/math_and_time.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/examples/math_and_time.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/examples/memory_sql_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/examples/memory_sql_example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/examples/specific_response_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/examples/specific_response_example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/examples/tagged_dataset_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/examples/tagged_dataset_example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/examples/terminal_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/examples/terminal_example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/examples/terminal_mongo_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/examples/terminal_mongo_example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/examples/tkinter_gui.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/examples/tkinter_gui.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/examples/training_example_chatterbot_corpus.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/examples/training_example_chatterbot_corpus.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/examples/training_example_list_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/examples/training_example_list_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/examples/training_example_ubuntu_corpus.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/examples/training_example_ubuntu_corpus.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/graphics/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/graphics/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/graphics/ad.png" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/graphics/ad.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/graphics/ad.xcf" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/graphics/ad.xcf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/graphics/banner.png" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/graphics/banner.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/graphics/chatterbot.xcf" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/graphics/chatterbot.xcf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/graphics/scan.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/graphics/scan.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/runtests.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/runtests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/setup.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/setup.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/tests/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/tests/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/tests/base_case.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/tests/base_case.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/tests/logic/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/tests/logic/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/tests/logic/test_best_match.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/tests/logic/test_best_match.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/tests/logic/test_data_cache.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/tests/logic/test_data_cache.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/tests/logic/test_logic_adapter.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/tests/logic/test_logic_adapter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/tests/logic/test_mathematical_evaluation.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/tests/logic/test_mathematical_evaluation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/tests/logic/test_specific_response.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/tests/logic/test_specific_response.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/tests/logic/test_time.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/tests/logic/test_time.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/tests/logic/test_unit_conversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/tests/logic/test_unit_conversion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/tests/storage/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/tests/storage/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/tests/storage/test_mongo_adapter.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/tests/storage/test_mongo_adapter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/tests/storage/test_sql_adapter.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/tests/storage/test_sql_adapter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/tests/storage/test_storage_adapter.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/tests/storage/test_storage_adapter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/tests/test_adapter_validation.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/tests/test_adapter_validation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/tests/test_benchmarks.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/tests/test_benchmarks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/tests/test_chatbot.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/tests/test_chatbot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/tests/test_cli.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/tests/test_cli.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/tests/test_comparisons.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/tests/test_comparisons.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/tests/test_conversations.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/tests/test_conversations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/tests/test_corpus.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/tests/test_corpus.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/tests/test_examples.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/tests/test_examples.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/tests/test_filters.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/tests/test_filters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/tests/test_initialization.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/tests/test_initialization.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/tests/test_languages.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/tests/test_languages.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/tests/test_parsing.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/tests/test_parsing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/tests/test_preprocessors.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/tests/test_preprocessors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/tests/test_response_selection.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/tests/test_response_selection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/tests/test_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/tests/test_search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/tests/test_tagging.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/tests/test_tagging.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/tests/test_turing.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/tests/test_turing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/tests/test_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/tests/test_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/tests/training/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/tests/training/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/tests/training/test_chatterbot_corpus_training.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/tests/training/test_chatterbot_corpus_training.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/tests/training/test_data/get_search.json" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/tests/training/test_data/get_search.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/tests/training/test_list_training.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/tests/training/test_list_training.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/tests/training/test_training.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/tests/training/test_training.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/tests/training/test_ubuntu_corpus_training.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/tests/training/test_ubuntu_corpus_training.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/tests_django/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/tests_django/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/tests_django/base_case.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/tests_django/base_case.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/tests_django/test_chatbot.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/tests_django/test_chatbot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/tests_django/test_chatterbot_corpus_training.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/tests_django/test_chatterbot_corpus_training.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/tests_django/test_chatterbot_settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/tests_django/test_chatterbot_settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/tests_django/test_django_adapter.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/tests_django/test_django_adapter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/tests_django/test_logic_adapter_integration.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/tests_django/test_logic_adapter_integration.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/tests_django/test_settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/tests_django/test_settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/tests_django/test_statement_integration.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/tests_django/test_statement_integration.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatterBot/tox.ini" beforeDir="false" afterPath="$PROJECT_DIR$/ChatterBot/tox.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,17 +223,26 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/webservice.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/main.py">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/__main__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="2" column="15" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -37,6 +260,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
+      </list>
+    </option>
   </component>
   <component name="ProjectConfigurationFiles">
     <option name="files">
@@ -75,7 +306,9 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -132,14 +365,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="43" width="1260" height="669" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24939467" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24939467" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32928944" />
@@ -147,15 +377,16 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/webservice.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/package-lock.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -165,8 +396,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        <state relative-caret-position="45">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webservice.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__main__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
