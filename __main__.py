@@ -3,7 +3,7 @@
 from flask import Flask
 #import peewee
 from flask import Flask, jsonify, request
-from flask_cors import CORS
+# from flask_cors import CORS
 import bot
 
 
